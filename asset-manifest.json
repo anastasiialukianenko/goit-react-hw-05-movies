@@ -1,13 +1,27 @@
 {
   "files": {
-    "main.css": "/anastasiialukianenko.github.io/goit-react-hw-05-movies/static/css/main.7acaea2f.css",
-    "main.js": "/anastasiialukianenko.github.io/goit-react-hw-05-movies/static/js/main.07d3183d.js",
+    "main.css": "/anastasiialukianenko.github.io/goit-react-hw-05-movies/static/css/main.b5320759.css",
+    "main.js": "/anastasiialukianenko.github.io/goit-react-hw-05-movies/static/js/main.7cc9cdcf.js",
+    "static/js/983.3dc54a7d.chunk.js": "/anastasiialukianenko.github.io/goit-react-hw-05-movies/static/js/983.3dc54a7d.chunk.js",
+    "static/js/871.834565dd.chunk.js": "/anastasiialukianenko.github.io/goit-react-hw-05-movies/static/js/871.834565dd.chunk.js",
+    "static/js/602.c16379ee.chunk.js": "/anastasiialukianenko.github.io/goit-react-hw-05-movies/static/js/602.c16379ee.chunk.js",
+    "static/js/805.608b9977.chunk.js": "/anastasiialukianenko.github.io/goit-react-hw-05-movies/static/js/805.608b9977.chunk.js",
+    "static/js/798.e7619ec1.chunk.js": "/anastasiialukianenko.github.io/goit-react-hw-05-movies/static/js/798.e7619ec1.chunk.js",
+    "static/js/532.2e555409.chunk.js": "/anastasiialukianenko.github.io/goit-react-hw-05-movies/static/js/532.2e555409.chunk.js",
+    "static/js/279.2c004ea1.chunk.js": "/anastasiialukianenko.github.io/goit-react-hw-05-movies/static/js/279.2c004ea1.chunk.js",
     "index.html": "/anastasiialukianenko.github.io/goit-react-hw-05-movies/index.html",
-    "main.7acaea2f.css.map": "/anastasiialukianenko.github.io/goit-react-hw-05-movies/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/anastasiialukianenko.github.io/goit-react-hw-05-movies/static/js/main.07d3183d.js.map"
+    "main.b5320759.css.map": "/anastasiialukianenko.github.io/goit-react-hw-05-movies/static/css/main.b5320759.css.map",
+    "main.7cc9cdcf.js.map": "/anastasiialukianenko.github.io/goit-react-hw-05-movies/static/js/main.7cc9cdcf.js.map",
+    "983.3dc54a7d.chunk.js.map": "/anastasiialukianenko.github.io/goit-react-hw-05-movies/static/js/983.3dc54a7d.chunk.js.map",
+    "871.834565dd.chunk.js.map": "/anastasiialukianenko.github.io/goit-react-hw-05-movies/static/js/871.834565dd.chunk.js.map",
+    "602.c16379ee.chunk.js.map": "/anastasiialukianenko.github.io/goit-react-hw-05-movies/static/js/602.c16379ee.chunk.js.map",
+    "805.608b9977.chunk.js.map": "/anastasiialukianenko.github.io/goit-react-hw-05-movies/static/js/805.608b9977.chunk.js.map",
+    "798.e7619ec1.chunk.js.map": "/anastasiialukianenko.github.io/goit-react-hw-05-movies/static/js/798.e7619ec1.chunk.js.map",
+    "532.2e555409.chunk.js.map": "/anastasiialukianenko.github.io/goit-react-hw-05-movies/static/js/532.2e555409.chunk.js.map",
+    "279.2c004ea1.chunk.js.map": "/anastasiialukianenko.github.io/goit-react-hw-05-movies/static/js/279.2c004ea1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.b5320759.css",
+    "static/js/main.7cc9cdcf.js"
   ]
 }
